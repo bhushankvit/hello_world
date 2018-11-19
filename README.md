@@ -1,3 +1,3 @@
 # hello_world
 Hello World
-This is a reade file.
+This is a read me file.
