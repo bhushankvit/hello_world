@@ -1,8 +1,7 @@
 /*package bankmanagment;*/
 import java.util.*;
 /**
- *
- * Bank Account Class 
+ *Bank Account Class 
  * // Main ClassName -- "Main" 
  */
 
